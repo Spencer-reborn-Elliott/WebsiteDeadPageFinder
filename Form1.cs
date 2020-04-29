@@ -28,6 +28,7 @@ namespace WebsiteDeadPageFinder
                 List<string> urls = GetUrlsFromSiteMap(URL.Text);
                 LogIt("==========================================================================================");
                 int counter = 0;
+                int pagecounter = 0;
                 foreach (string page in urls)
                 {
                     bool result = DoesSiteExist2(page);
@@ -42,9 +43,11 @@ namespace WebsiteDeadPageFinder
                         LogIt("Warning!!!");
                         counter++;
                     }
+                    pagecounter++;
                 }
                 LogIt("=======================================================================================================");
                 LogIt("I found " + counter.ToString() + " pages that did not exist (or had a significant error), but where in the sitemap.");
+                LogIt("Total pages: " + pagecounter.ToString());
                 LogIt("=======================================================================================================");
                 if (counter > 0)
                 {

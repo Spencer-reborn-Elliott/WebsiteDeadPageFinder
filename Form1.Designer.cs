@@ -124,7 +124,7 @@
             this.Controls.Add(this.Output);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Website Dead Page Finder v1.01";
+            this.Text = "Website Dead Page Finder v1.04";
             ((System.ComponentModel.ISupportInitialize)(this.timeOut)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
