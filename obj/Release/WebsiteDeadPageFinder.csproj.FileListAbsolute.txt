@@ -1,0 +1,10 @@
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\bin\Release\WebsiteDeadPageFinder.exe.config
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\bin\Release\WebsiteDeadPageFinder.exe
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\bin\Release\WebsiteDeadPageFinder.pdb
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.Form1.resources
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.Properties.Resources.resources
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.exe
+C:\Users\Spencer\source\repos\WebsiteDeadPageFinder\obj\Release\WebsiteDeadPageFinder.pdb
